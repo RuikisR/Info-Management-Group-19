@@ -26,11 +26,11 @@ REPORT: <br />
         -> Identify supported use case <br />
         -> Describe purpose <br />
         -> Provide example output <br />
-       XML - National Council  
-             Scout Province
-             Scout County
-             Scout Group
-             Scout - attribute (Type)
-             Events
-             Scouter - Leaders
+       XML - National Council  <br />
+             Scout Province <br />
+             Scout County   <br />
+             Scout Group    <br />
+             Scout - attribute (Type)   <br />
+             Events <br />
+             Scouter - Leaders  <br />
              
