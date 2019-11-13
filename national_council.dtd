@@ -1,0 +1,11 @@
+<!ELEMENT national_council(year,location,board_of_directors,chief_scout,provincal_commissioner,commissioner)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT board_of_directors* (#PCDATA)>
+<!ATTLIST board_of_directors position CDATA #REQUIRED>
+<!ELEMENT chief_scout (#PCDATA)>
+<!ELEMENT provincal_commissioner* (#PCDATA)>
+<!ATTLIST provincal_commissioner province CDATA #REQUIRED>
+<!ELEMENT commissioner* (#PCDATA)>
+<!ATTLIST commissioner scout_tier CDATA #REQUIRED>
+
