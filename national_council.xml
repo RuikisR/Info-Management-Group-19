@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <!DOCTYPE national_council SYSTEM "national_council.dtd" >
-<nationcal_council>
+<national_council>
   <year>2018</year>
   <location>Scouting Ireland, Larch Hill Tibradden, Dublin 16, D16 P023</location>
-  <board_of_directors position = "Chairperson">Adrian Tennant</board_of_directors>
-  <board_of_directors position = "Secretary">Brian Smith</board_of_directors>
-  <board_of_directors position = "Member">Dermot Lacey</board_of_directors>
-  <board_of_directors position = "Member">Lisa Barnes</board_of_directors>
-  <board_of_directors position = "Member">Mary Hogg</board_of_directors>
-  <board_of_directors position = "Member">Ned Brennan</board_of_directors>
-  <board_of_directors position = "Member">Pat Kidney</board_of_directors>
-  <board_of_directors position = "Member">Paul Mannion</board_of_directors>
-  <board_of_directors position = "Member">Peter Garrad</board_of_directors>
+  <board_director position = "Chairperson">Adrian Tennant</board_director>
+  <board_director position = "Secretary">Brian Smith</board_director>
+  <board_director position = "Member">Dermot Lacey</board_director>
+  <board_director position = "Member">Lisa Barnes</board_director>
+  <board_director position = "Member">Mary Hogg</board_director>
+  <board_director position = "Member">Ned Brennan</board_director>
+  <board_director position = "Member">Pat Kidney</board_director>
+  <board_director position = "Member">Paul Mannion</board_director>
+  <board_director position = "Member">Peter Garrad</board_director>
   <chief_scout>Christy McCann</chief_scout>
   <provincal_commissioner province = "Dublin">Mark Blake</provincal_commissioner>
   <provincal_commissioner province = "South East">Kevin Murphy</provincal_commissioner>
@@ -21,4 +21,4 @@
   <commissioner scout_tier = "Venture Scouts">Colin Keane</commissioner>
   <commissioner scout_tier = "Rover Scouts">Ruairi Nealon</commissioner>
   <commissioner scout_tier = "Sea Scouting">Gearóid Ó'Riain</commissioner>
-</nationcal_council>
+</national_council>
