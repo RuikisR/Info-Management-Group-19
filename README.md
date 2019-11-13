@@ -26,4 +26,11 @@ REPORT: <br />
         -> Identify supported use case <br />
         -> Describe purpose <br />
         -> Provide example output <br />
-        asdawdgyasbhdfbadsjf
+       XML - National Council  
+             Scout Province
+             Scout County
+             Scout Group
+             Scout - attribute (Type)
+             Events
+             Scouter - Leaders
+             
