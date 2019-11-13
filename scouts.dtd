@@ -1,18 +1,8 @@
-<!DOCTYPE scouts [
-
 <!ELEMENT scouts (scout*)>
-
-
 <!ELEMENT scout (name, age, group_location, scout_type, guardian+)>
-
 <!ELEMENT name (#PCDATA)>
-
 <!ELEMENT age (#PCDATA)>
-
 <!ELEMENT group_location (#PCDATA)>
-
 <!ELEMENT scout_type (#PCDATA)>
-
 <!ELEMENT guardian (#PCDATA)>
 <!ATTLIST guardian contact_info CDATA #REQUIRED>
-]>
