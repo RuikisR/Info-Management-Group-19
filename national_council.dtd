@@ -1,8 +1,8 @@
-<!ELEMENT national_council(year,location,board_of_directors,chief_scout,provincal_commissioner,commissioner)>
+<!ELEMENT national_council(year,location,board_director,chief_scout,provincal_commissioner,commissioner)>
 <!ELEMENT year (#PCDATA)>
 <!ELEMENT location (#PCDATA)>
-<!ELEMENT board_of_directors* (#PCDATA)>
-<!ATTLIST board_of_directors position CDATA #REQUIRED>
+<!ELEMENT board_director* (#PCDATA)>
+<!ATTLIST board_director position CDATA #REQUIRED>
 <!ELEMENT chief_scout (#PCDATA)>
 <!ELEMENT provincal_commissioner* (#PCDATA)>
 <!ATTLIST provincal_commissioner province CDATA #REQUIRED>
