@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+
+<!DOCTYPE scout_county[
+<!ELEMENT scout_county (scout_groups, commissioner_name)>
+<!ELEMENT scout_groups (scout_group*)>
+<!ELEMENT scout_group (name, meeting_location, group_type, scouts)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT meeting_location (#PCDATA)>
+<!ATTLIST meeting_location meeting_time CDATA #IMPLIED>
+<!ELEMENT group_type (#PCDATA)>
+<!ELEMENT scouts (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT commissioner_name (first_name, other_name*)>
+<!ELEMENT first_name (#PCDATA)>
+<!ELEMENT other_name (#PCDATA)>
+<!ATTLIST location scout_county CDATA #REQUIRED>
+]>

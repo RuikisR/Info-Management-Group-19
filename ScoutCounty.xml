@@ -1,0 +1,29 @@
+<!--
+-fill with the xml for scout_group and scouts..
+  -->
+<scout_county location = 'Dublin'>
+	<commissioner_name>
+		<first_name>Lisa</first_name>
+		<other_name>Marie</other_name>
+		<other_name>Ryan</other_name>
+	</commissioner_name>
+	<scout_groups>
+		<scout_group>
+			<name></name>
+			<meeting_location>Roselawn</meeting_location>
+			<group_type></group_type>
+			<scouts></scouts>
+		</scout_group>
+		<scout_group>
+			<name></name>
+			<meeting_location></meeting_location>
+			<group_type></group_type>
+			<scouts></scouts>
+		</scout_group>
+		<scout_group>
+			<name></name>
+			<meeting_location></meeting_location>
+			<group_type></group_type>
+			<scouts></scouts>
+		</scout_group>
+	</scout_groups>
