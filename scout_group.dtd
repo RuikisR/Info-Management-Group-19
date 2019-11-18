@@ -6,4 +6,5 @@
     <!ATTLIST meeting_location meeting_time CDATA #IMPLIED>
     <!ELEMENT group_type (#PCDATA)>
     <!ELEMENT scouts (#PCDATA)>
+    <!ATTLIST scouts id CDATA #IMPLIED>
 ]>
