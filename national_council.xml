@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
-<!DOCTYPE national_council SYSTEM "national_council.dtd" >
+<!DOCTYPE national_council_doc SYSTEM "national_council.dtd" >
+<national_council_list>
 <national_council>
   <year>2018</year>
-  <location>Scouting Ireland, Larch Hill Tibradden, Dublin 16, D16 P023</location>
+  <location>Scouting Ireland, Larch Hill Tibradden, Dublin 16</location>
   <board_director position = "Chairperson">Adrian Tennant</board_director>
   <board_director position = "Secretary">Brian Smith</board_director>
   <board_director position = "Member">Dermot Lacey</board_director>
@@ -26,3 +27,4 @@
   <commissioner scout_tier = "Rover Scouts">Ruairi Nealon</commissioner>
   <commissioner scout_tier = "Sea Scouting">Gearóid Ó'Riain</commissioner>
 </national_council>
+</national_council_list>

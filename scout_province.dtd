@@ -1,0 +1,12 @@
+<!DOCTYPE province_info [
+  <!ELEMENT scout_province_list (scout_province+)>
+    <!ELEMENT scout_province(name,location,commissioner,counties+,international_coordinator,trainers+)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT location (#PCDATA)>
+    <!ELEMENT commissioner (#PCDATA)>
+    <!ATTLIST commissioner email CDATA #REQUIRED>
+    <!ELEMENT counties (#PCDATA)>
+    <!ATTLIST counties county_commissioner CDATA #IMPLIED>
+    <!ELEMENT international_coordinator (#PCDATA)>
+    <!ELEMENT trainers (#PCDATA)>
+]>

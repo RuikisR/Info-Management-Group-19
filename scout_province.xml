@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE province_info SYSTEM "scout_province.dtd">
+<scout_province_list>
+  <scout_province>
+    <name>Dublin</name>
+    <location>The Scout Den, Derrynane Gardens, Bath Avenue, Sandymount, Dublin 4</location> 
+    <commissioner email="BlakeM@Scouts.ie">Mark Blake</commissioner>
+    <counties county_commissioner = "John Kimothy">Cluain Toirc</counties>
+    <counties county_commissioner = "Aaron O'Shaughnessy">Dodder</counties>
+    <counties county_commissioner = "Danny Devito">Dublinia</counties>
+    <counties county_commissioner = "Jeffery Nomesuicido">Dún Laoghaire</counties>
+    <counties county_commissioner = "Elizabeth TheFirst">Liffey West</counties>
+    <counties county_commissioner = "Mary McAleese">Mountpelier</counties>
+    <counties county_commissioner = "Ada Lovelace">Cois Farraige</counties>
+    <counties county_commissioner = "Xi Jingping">Three Rock</counties>
+    <counties county_commissioner = "Winnie the pooh">Tolka</counties>
+    <international_coordinator>Keanu Reaves</international_coordinator>
+    <trainers>Brian Mahoney</trainers>
+    <trainers>Eamon Shannon</trainers>
+    <trainers>Sheila Flanagan</trainers>
+    <trainers>Nuala McDonnell</trainers>
+  </scout_province>
+  <scout_province>
+  
+  </scout_province>
+</scout_province_list>
