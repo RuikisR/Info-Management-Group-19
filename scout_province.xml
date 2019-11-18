@@ -2,7 +2,7 @@
 <!DOCTYPE province_info SYSTEM "scout_province.dtd">
 <scout_province_list>
   <scout_province>
-    <name>Dublin</name>
+    <name>Dublin Scout Province</name>
     <location>The Scout Den, Derrynane Gardens, Bath Avenue, Sandymount, Dublin 4</location> 
     <commissioner email="BlakeM@Scouts.ie">Mark Blake</commissioner>
     <counties county_commissioner = "John Kimothy">Cluain Toirc</counties>
@@ -13,7 +13,7 @@
     <counties county_commissioner = "Mary McAleese">Mountpelier</counties>
     <counties county_commissioner = "Ada Lovelace">Cois Farraige</counties>
     <counties county_commissioner = "Xi Jingping">Three Rock</counties>
-    <counties county_commissioner = "Winnie the pooh">Tolka</counties>
+    <counties county_commissioner = "Winnie thePooh">Tolka</counties>
     <international_coordinator>Keanu Reaves</international_coordinator>
     <trainers>Brian Mahoney</trainers>
     <trainers>Eamon Shannon</trainers>
@@ -21,6 +21,22 @@
     <trainers>Nuala McDonnell</trainers>
   </scout_province>
   <scout_province>
-  
+    <name>Southern Scout Province</name>
+    <location>Kilcully House, Kilcully Campsite, Kilcully, Co. Cork</location> 
+    <commissioner email="LongD@Scouts.ie">Derek Long</commissioner>
+    <counties county_commissioner = "Máire Nic Charthaigh">Cois Laoi Chorcaíc</counties>
+    <counties county_commissioner = "Niamh Níc Ghiolla Iosa">Cork South</counties>
+    <counties county_commissioner = "Peigín Nic Cheallach">Kerry</counties>
+    <counties county_commissioner = "Maureen Curren">Lee Valley</counties>
+    <counties county_commissioner = "Conor Mac Carthaigh">Limerick</counties>
+    <counties county_commissioner = "Colmán Ó Ceanndubháin">North Cork</counties>
+    <counties county_commissioner = "Niall Ó Raghallaigh">Tipp Cois Suir</counties>
+    <counties county_commissioner = "Niall Ó Domhnaill">Tipp North</counties>
+    <counties county_commissioner = "Liam McDonnell">West Cork</counties>
+    <international_coordinator>Pádraigín Ní Chonaill</international_coordinator>
+    <trainers>Mairéad Ní Raghallaigh</trainers>
+    <trainers>Treasa Ní Chathasaigh</trainers>
+    <trainers>Cathal Mac Giolla Eoin</trainers>
+    <trainers>Aodhán Ó Suileabháin</trainers>
   </scout_province>
 </scout_province_list>
