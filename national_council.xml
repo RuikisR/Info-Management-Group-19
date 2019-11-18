@@ -14,12 +14,12 @@
     <board_director position = "Member">Paul Mannion</board_director>
     <board_director position = "Member">Peter Garrad</board_director>
     <chief_scout>Christy McCann</chief_scout>
-    <provincal_commissioner province = "Dublin">Mark Blake</provincal_commissioner>
-    <provincal_commissioner province = "South East">Kevin Murphy</provincal_commissioner>
-    <provincal_commissioner province = "North">Kieran McCann</provincal_commissioner>
-    <provincal_commissioner province = "North Eastern">Stephen Halpin</provincal_commissioner>
-    <provincal_commissioner province = "Western">Joe Doherty</provincal_commissioner>
-    <provincal_commissioner province = "South">Derek Long</provincal_commissioner>  
+    <provincial_commissioner province = "Dublin">Mark Blake</provincial_commissioner>
+    <provincial_commissioner province = "South East">Kevin Murphy</provincial_commissioner>
+    <provincial_commissioner province = "North">Kieran McCann</provincial_commissioner>
+    <provincial_commissioner province = "North Eastern">Stephen Halpin</provincial_commissioner>
+    <provincial_commissioner province = "Western">Joe Doherty</provincial_commissioner>
+    <provincial_commissioner province = "South">Derek Long</provincial_commissioner>  
     <commissioner scout_tier = "Beaver Scouts">Ian Feighery</commissioner>
     <commissioner scout_tier = "Scouts">Úna O'Grady</commissioner>
     <commissioner scout_tier = "Cub Scouts">Eilís Molamphy</commissioner>
