@@ -27,7 +27,7 @@ REPORT: <br />
         -> Describe purpose <br />
         -> Provide example output <br />
 
-XML:
+XML: <br />
     -> National Council  <br />
     -> Scout Province <br />
     -> Scout County   <br />
@@ -35,11 +35,14 @@ XML:
     -> Scout - attribute (Type)   <br />
     -> Scouter - Leaders  <br />
 
-Queries:
-    -> Return all Scouts of specific group type
-        (For event invitations)
-    -> Return list of scouts in a group
-        (Weekly meeting roll call)
-    -> Return list of Scout Groups and their leaders
-        (AGM invites)
-
+Queries: <br />
+    -> Return all Scouts of specific group type <br />
+        (For event invitations) <br />
+    -> Return list of scouts in a group <br />
+        (Weekly meeting roll call) <br />
+    -> Return list of Scout Groups and their leaders <br />
+        (AGM invites) <br />
+    -> Return National Council Members of certain year <br />
+        (Archive purposes) <br />
+    -> Return next of kin contact details <br />
+        (Emergencies)
