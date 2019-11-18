@@ -5,6 +5,6 @@
 		<name></name>
 		<meeting_location meeting_time = "x"></meeting_location>
 		<group_type></group_type>
-		<scouts></scouts>
+		<scouts id = "x"></scouts>
 	</scout_group>
 </scout_groups>
