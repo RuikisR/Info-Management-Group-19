@@ -1,0 +1,28 @@
+<scout_leaders>
+    <scout_leader age = '32'>
+        <name>
+            <title>Mr</title>
+            <first_name>Mike</first_name>
+            <last_name>Ronan</last_name>
+        </name>
+        <group_location>Roselawn, Dublin</group_location>
+    </scout_leader>
+    <scout_leader age = '18'>
+        <name>
+            <first_name>Jane</first_name>
+            <middle_name>Rose</middle_name>
+            <last_name>Kearney</last_name>
+        </name>
+        <group_location>Roselawn, Dublin</group_location>
+    </scout_leader>
+        <scout_leader age = '20'>
+        <name>
+            <title>Mrs</title>
+            <first_name>Nora</first_name>
+            <middle_name>May</middle_name>
+            <middle_name>Maeve</middle_name>            
+            <last_name>Old</last_name>
+        </name>
+        <group_location>Roselawn, Dublin</group_location>
+    </scout_leader>
+</scout_leaders>

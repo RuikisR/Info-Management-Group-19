@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<!DOCTYPE scout_leaders[
+<!ELEMENT scout_leaders (scout_leader*)>
+<!ELEMENT scout_leader (name, age, group_location)>
+<!ELEMENT name   (title?, first_name, middle_name*, last_name)>
+<!ATTLIST scout_leader age CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT first_name (#PCDATA)>
+<!ELEMENT middle_name (#PCDATA)>
+<!ELEMENT last_name (#PCDATA)>
+<!ELEMENT group_location (#PCDATA)>
+]>
