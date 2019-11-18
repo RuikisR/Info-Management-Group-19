@@ -13,5 +13,8 @@
 <!ELEMENT commissioner_name (first_name, other_name*)>
 <!ELEMENT first_name (#PCDATA)>
 <!ELEMENT other_name (#PCDATA)>
+<!ELEMENT treasurer_name (first_name, other_name*)>
+<!ELEMENT first_name (#PCDATA)>
+<!ELEMENT other_name (#PCDATA)>
 <!ATTLIST location scout_county CDATA #REQUIRED>
 ]>
