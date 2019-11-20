@@ -1,4 +1,5 @@
 <!ELEMENT scouts (scout*)>
+<!ATTLIST scouts id CDATA #REQUIRED>
 <!ELEMENT scout (name, age, group_location, scout_type, guardian+)>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT age (#PCDATA)>
