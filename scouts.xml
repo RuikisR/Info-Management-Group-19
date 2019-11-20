@@ -27,3 +27,29 @@
 	<gaurdian contact_info = "0822353812">Paddy</guardian>
    </scout>
 </scouts>	
+<scouts id = "4">
+   <scout>
+	<name>Liam Deliore</name>
+	<age>17</age>
+	<group_location>Cavan</group_location>
+	<scout_type>Venture Scouts</scout_type>
+	<gaurdian contact_info = "0854334212">Lucas</guardian>
+	<gaurdian contact_info = "0853475322">Elijah</guardian>
+	<gaurdian contact_info = "013422342">Barack</guardian>
+   </scout>
+   <scout>
+	<name>Noah Sark</name>
+	<age>16</age>
+	<group_location>Cavan</group_location>
+	<scout_type>Venture Scouts</scout_type>
+	<gaurdian contact_info = "0871936306">Ben</guardian>
+   </scout>
+   <scout>
+	<name>Micheal DeHiggins</name>
+	<age>17</age>
+	<group_location>Cavan</group_location>
+	<scout_type>Venture Scouts</scout_type>
+	<gaurdian contact_info = "0831148283">Oliver</guardian>
+	<gaurdian contact_info = "012332394">William</guardian>
+   </scout>
+</scouts>	
