@@ -37,13 +37,13 @@ XML: <br />
 
 Queries: <br />
     -> Return all Scouts at event - Ravioli<br />
-    -> Return list of scouts in a group  - John Sinclair<br />
+    -> Return list of scouts in a group  - John <br />
         (Weekly meeting roll call) <br />
-    -> Return list of Scout Groups and their leaders- JSD <br />
+    -> Return list of Scout Groups and their leaders - JSD <br />
         (AGM invites) <br />
     -> Return National Council Members of certain year <br />
         (Archive purposes) <br />
-    -> Return next of kin contact details <br />
+    -> Return next of kin contact details  - James<br />
         (Emergencies) <br />
     ->  Return hierarchy of treasurers <br />
         (Financal advisory) <br/>
