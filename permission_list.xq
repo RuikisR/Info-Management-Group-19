@@ -2,6 +2,6 @@
 {
     for $x in doc("scouts.xml")/scouts/scout
     where $x/age<18
-	return $s/gaurdian
+	return $s/guardian
 }
 </permission_list>
