@@ -5,15 +5,18 @@
             <first_name>Mike</first_name>
             <last_name>Ronan</last_name>
         </name>
+        <scout_group>Cub Scouts</scout_group>
         <group_location>Roselawn, Dublin</group_location>
     </scout_leader>
     <scout_leader age = '18'>
         <name>
+            <title>Ms</title>
             <first_name>Jane</first_name>
             <middle_name>Rose</middle_name>
             <last_name>Kearney</last_name>
         </name>
-        <group_location>Roselawn, Dublin</group_location>
+        <scout_group>Venture Scouts</scout_group>
+        <group_location>Chapelizod, Dublin</group_location>
     </scout_leader>
         <scout_leader age = '20'>
         <name>
@@ -23,6 +26,7 @@
             <middle_name>Maeve</middle_name>            
             <last_name>Old</last_name>
         </name>
-        <group_location>Roselawn, Dublin</group_location>
+        <scout_group>Cub Scouts</scout_group>
+        <group_location>Kingscourt, Dublin</group_location>
     </scout_leader>
 </scout_leaders>
