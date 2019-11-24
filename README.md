@@ -36,11 +36,11 @@ XML: <br />
     -> Scouter - Leaders  <br />
 
 Queries: <br />
-    -> Return all Scouts of specific group type <br />
+    -> Return all Scouts of specific group type - Raivoli<br />
         (For event invitations) <br />
     -> Return list of scouts in a group  - John Sinclair<br />
         (Weekly meeting roll call) <br />
-    -> Return list of Scout Groups and their leaders <br />
+    -> Return list of Scout Groups and their leaders- JSD <br />
         (AGM invites) <br />
     -> Return National Council Members of certain year <br />
         (Archive purposes) <br />
