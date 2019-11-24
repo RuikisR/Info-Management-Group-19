@@ -10,9 +10,9 @@ STEP 1: DESIGN <br />
     -> Comment DTDs explaining purpose of each decision <br />
 
 STEP 2: XQUERY <br />
-    -> 8 XQueries minimum <br />
-    -> At least 3 retrieve info from interlinked docs using WHERE <br />
-    -> At least 2 use FOR <br />
+    -> 8 XQueries minimum (i)<br />
+    -> At least 3 retrieve info from interlinked docs using WHERE (i)<br />
+    -> At least 2 use FOR (i)<br />
     -> At least 1 uses LET <br />
     -> At least 2 use a built-in XQuery function <br />
     -> At least 2 use a user defined function <br />
@@ -36,8 +36,7 @@ XML: <br />
     -> Scouter - Leaders  <br />
 
 Queries: <br />
-    -> Return all Scouts of specific group type - Raivoli<br />
-        (For event invitations) <br />
+    -> Return all Scouts at event - Ravioli<br />
     -> Return list of scouts in a group  - John Sinclair<br />
         (Weekly meeting roll call) <br />
     -> Return list of Scout Groups and their leaders- JSD <br />
