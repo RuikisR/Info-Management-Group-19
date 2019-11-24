@@ -1,3 +1,4 @@
+<!DOCTYPE scouts_info [
 <!ELEMENT scouts (scout_set*)>
 <!ELEMENT scout_set (scouts*)>
 <!ATTLIST scout_set id CDATA #REQUIRED>
@@ -8,3 +9,4 @@
 <!ELEMENT scout_type (#PCDATA)>
 <!ELEMENT guardian (#PCDATA)>
 <!ATTLIST guardian contact_info CDATA #REQUIRED>
+]>
