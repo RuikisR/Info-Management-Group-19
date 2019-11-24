@@ -1,13 +1,13 @@
 <!DOCTYPE national_council_doc[
   <!ELEMENT national_council_list (national_council+)> 
-  <!ELEMENT national_council(year,location,board_director+,chief_scout,provincal_commissioner+,commissioner+)><!-- This is to repersent the national council based on the year. -->
+  <!ELEMENT national_council(year,location,board_director+,chief_scout,provincial_commissioner+,commissioner+)><!-- This is to repersent the national council based on the year. -->
   <!ELEMENT year (#PCDATA)>
   <!ELEMENT location (#PCDATA)>
   <!ELEMENT board_director (#PCDATA)>
   <!ATTLIST board_director position CDATA #REQUIRED>
   <!ELEMENT chief_scout (#PCDATA)>
-  <!ELEMENT provincal_commissioner* (#PCDATA)>
-  <!ATTLIST provincal_commissioner province CDATA #REQUIRED>
+  <!ELEMENT provincial_commissioner (#PCDATA)>
+  <!ATTLIST provincial_commissioner province CDATA #REQUIRED>
   <!ELEMENT commissioner (#PCDATA)>
   <!ATTLIST commissioner scout_tier CDATA #REQUIRED>
 ]>

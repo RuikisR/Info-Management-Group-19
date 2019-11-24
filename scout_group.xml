@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<!DOCTYPE group_info SYSTEM "scout_group.dtd">
+<scout_groups>
+	<scout_group>
+		<name>Roselawn Scouting</name>
+		<meeting_location meeting_time = "18:00">Roselawn</meeting_location>
+		<group_type>Cub Scouts</group_type>
+		<scouts id = "3"></scouts>
+	</scout_group>
+	<scout_group>
+		<name>Chapel Scouters</name>
+		<meeting_location meeting_time = "18:30">Chapelizod</meeting_location>
+		<group_type>Venture Scouts</group_type>
+		<scouts id = "2"></scouts>
+	</scout_group>
+	<scout_group>
+		<name>Island Scouters</name>
+		<meeting_location meeting_time = "20:00">Islandbridge</meeting_location>
+		<group_type>Brownie Guides</group_type>
+		<scouts id = "11"></scouts>
+	</scout_group>
+	<scout_group>
+		<name>Kingscourt Cubs</name>
+		<meeting_location meeting_time = "20:00">Kingcourt</meeting_location>
+		<group_type>Cub Scouts</group_type>
+		<scouts id = "10"></scouts>
+	</scout_group>
+	<scout_group>
+		<name>Ballyconnel Scouting</name>
+		<meeting_location meeting_time = "18:00">Ballyconnel</meeting_location>
+		<group_type>Rainbow Guides</group_type>
+		<scouts id = "8"></scouts>
+	</scout_group>
+	<scout_group>
+		<name>Dingle Scouting</name>
+		<meeting_location meeting_time = "18:00">Dingle Town</meeting_location>
+		<group_type>Beavers</group_type>
+		<scouts id = "6"></scouts>
+	</scout_group>
+	<scout_group>
+		<name>Killarney Cubs</name>
+		<meeting_location meeting_time = "20:00">Killarney</meeting_location>
+		<group_type>Cub Scouts</group_type>
+		<scouts id = "12"></scouts>
+	</scout_group>
+	<scout_group>
+		<name>Island Scouters</name>
+		<meeting_location meeting_time = "20:00">Kerry Town</meeting_location>
+		<group_type>Brownie Guides</group_type>
+		<scouts id = "15"></scouts>
+	</scout_group>
+</scout_groups>

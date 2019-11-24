@@ -38,7 +38,7 @@ XML: <br />
 Queries: <br />
     -> Return all Scouts of specific group type <br />
         (For event invitations) <br />
-    -> Return list of scouts in a group <br />
+    -> Return list of scouts in a group  - John Sinclair<br />
         (Weekly meeting roll call) <br />
     -> Return list of Scout Groups and their leaders <br />
         (AGM invites) <br />
@@ -46,3 +46,5 @@ Queries: <br />
         (Archive purposes) <br />
     -> Return next of kin contact details <br />
         (Emergencies) <br />
+    ->  Return hierarchy of treasurers <br />
+        (Financal advisory) <br/>

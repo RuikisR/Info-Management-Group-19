@@ -1,3 +1,4 @@
+<!DOCTYPE group_info [
 <!ELEMENT scout_groups (scout_group*)>
 <!ELEMENT scout_group (name, meeting_location, group_type, scouts)
 <!ELEMENT name (#PCDATA)>
@@ -5,3 +6,5 @@
 <!ATTLIST meeting_location meeting_time CDATA #IMPLIED>
 <!ELEMENT group_type (#PCDATA)>
 <!ELEMENT scouts (#PCDATA)>
+<!ATTLIST scouts id CDATA #IMPLIED>
+]>
