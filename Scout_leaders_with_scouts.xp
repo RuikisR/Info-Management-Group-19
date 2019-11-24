@@ -1,0 +1,10 @@
+<Scout_leaders_with_scouts>
+{
+	let $scouts := doc("scouts.xml").
+	let $leaders := doc("ScoutLeader.xml")
+	for $leader in //scout_leaders/scout_leader
+		for $scout in //scouts/scout_set/scout
+			where $scout/group_location = $leader/group_location
+			return concat($sleader/name/first_name, " ", $sleader/name/last_name,  " is a leader of ", $scout/name)
+}
+</Scout_leaders_with_scouts>
