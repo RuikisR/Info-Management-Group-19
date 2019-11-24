@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!DOCTYPE event_info SYSTEM "events.dtd">
+<event_list>
+  <events>
+    <name number_of_uses="52">Weekly Meetings</name>
+    <location>Scout Den</location>
+    <cost>€250</cost>
+    <start_time time_taken="2 hours">18:00, every Wednesday</start_time>
+    <end_time>20:00, every Wednesday</end_time>
+    <scout_group>Cub Scouts</scout_group>
+    <scout_group>Venture Scouts</scout_group>
+  </events>
+   <events>
+    <name number_of_uses="1">National Cub Challenge</name>
+    <location>Portlick Scout Campsite, Glasson, Athlone, Co. Westmeath</location>
+    <cost>€10000</cost> 
+    <start_time time_taken="2 days">15th of June</start_time>
+    <end_time>16th of June</end_time>
+    <scout_group>Cub Scouts</scout_group>
+  </events>
+   <events>
+    <name number_of_uses="1">Venture Challenge</name>
+    <location>Anywhere in Ireland</location>
+    <cost>€10000</cost>
+    <start_time time_taken="5 days">1st of June</start_time>
+    <end_time>5th of June</end_time>
+    <scout_group>Venture Scouts</scout_group>
+  </events>
+</event_list>

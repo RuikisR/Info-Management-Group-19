@@ -1,0 +1,12 @@
+<!DOCTYPE event_info [
+  <!ELEMENT event_list (events+)>
+    <!ELEMENT events (name,cost,location,start_time,end_time,scout_group+)>
+    <!ELEMENT name (#PCDATA)>
+    <!ATTLIST name number_of_uses CDATA #REQUIRED>
+    <!ELEMENT cost (#PCDATA)>
+    <!ELEMENT location (#PCDATA)>
+    <!ELEMENT start_time (#PCDATA)>
+    <!ATTLIST start_time time_taken CDATA #IMPLIED>
+    <!ELEMENT end_time (#PCDATA)>
+    <!ELEMENT scout_group (#PCDATA)>
+]>
