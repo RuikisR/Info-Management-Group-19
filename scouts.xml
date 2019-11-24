@@ -5,7 +5,7 @@
    <scout>
 	<name>John Joe Junior</name>
 	<age>12</age>
-	<group_location>Dublin</group_location>
+	<group_location>Roselawn, Dublin</group_location>
 	<scout_type>Cub Scouts</scout_type>
 	<guardian contact_info="0876543212">Mary</guardian>
 	<guardian contact_info="0833653212">John Snr</guardian>
@@ -13,7 +13,7 @@
    <scout>
 	<name>Padraig Pearse</name>
 	<age>13</age>
-	<group_location>Dublin</group_location>
+	<group_location>Roselawn, Dublin</group_location>
 	<scout_type>Cub Scouts</scout_type>
 	<guardian contact_info="0872536412">Margaret</guardian>
 	<guardian contact_info="0876413212">Abdul</guardian>
@@ -21,7 +21,7 @@
    <scout>
 	<name>Padraig Clarke</name>
 	<age>12</age>
-	<group_location>Dublin</group_location>
+	<group_location>Roselawn, Dublin</group_location>
 	<scout_type>Cub Scouts</scout_type>
 	<guardian contact_info="0894243212">Moe </guardian>
 	<guardian contact_info="0822453212">Mia</guardian>
@@ -32,7 +32,7 @@
    <scout>
 	<name>Liam Deliore</name>
 	<age>17</age>
-	<group_location>Cavan</group_location>
+	<group_location>Roselawn, Dublin</group_location>
 	<scout_type>Venture Scouts</scout_type>
 	<guardian contact_info="0854334212">Lucas</guardian>
 	<guardian contact_info="0853475322">Elijah</guardian>
@@ -41,14 +41,14 @@
    <scout>
 	<name>Noah Sark</name>
 	<age>16</age>
-	<group_location>Cavan</group_location>
+	<group_location>Roselawn, Dublin</group_location>
 	<scout_type>Venture Scouts</scout_type>
 	<guardian contact_info="0871936306">Ben</guardian>
    </scout>
    <scout>
 	<name>Micheal DeHiggins</name>
 	<age>17</age>
-	<group_location>Cavan</group_location>
+	<group_location>Roselawn, Dublin</group_location>
 	<scout_type>Venture Scouts</scout_type>
 	<guardian contact_info="0831148283">Oliver</guardian>
 	<guardian contact_info="012332394">William</guardian>
